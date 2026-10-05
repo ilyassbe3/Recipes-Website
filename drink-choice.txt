@@ -1,1 +1,1 @@
-Drink: water
+Drink: tea
